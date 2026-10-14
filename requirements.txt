@@ -1,0 +1,11 @@
+streamlit>=1.37
+google-genai>=1.0
+mcp>=1.2
+pyipp>=0.14.5
+aiohttp>=3.9
+pypdf>=4.0
+pypdfium2>=4.30
+Pillow>=10.0
+numpy>=1.26
+python-dotenv>=1.0
+pywin32>=306; sys_platform == "win32"
